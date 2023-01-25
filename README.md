@@ -11,7 +11,7 @@ To install the program, use the following commands:
 npm install -g monaca
 monaca login
 git clone https://github.com/AnniLotta/TODO-App-F7.git
-cd PDF-reader
+cd TODO-App-F7
 npm install
 ```
 To run the program, use:
